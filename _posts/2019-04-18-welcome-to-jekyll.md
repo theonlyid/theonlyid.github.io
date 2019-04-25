@@ -1,5 +1,5 @@
 ---
-title: "Under Construction"
+title: "Hey, there!"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
@@ -7,8 +7,6 @@ tags:
   - Info
   - Science
 ---
-
-Hey, there!
 
 Thanks for visiting my page. I'm currently rebuilding this website.
 
