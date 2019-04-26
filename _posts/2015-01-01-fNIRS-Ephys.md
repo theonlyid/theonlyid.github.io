@@ -13,9 +13,9 @@ tags:
 I developed a novel method to study neuro-vascular coupling during my PhD.
 This method enables the simultaneous acquisition of intracortical electrophysiology signals and neuroimaging signals without crosstalk from one modality to another.
 
-This method led to the discovery of novel insights into the nature of neurovascular coupling, leading to the identification of singular and unique correlates of spiking activity and low-frequency LFPs, enabling a much better interpretation of the neuroimaginng signal.
+This method led to the discovery of novel insights into the nature of neurovascular coupling, leading to the identification of independent correlates of spiking activity and low-frequency LFPs, enabling a much better interpretation of the neuroimaginng signal.
 
 This method enables the studying of neurovascular coupling at a cost that is two orders of magnitude cheaper but with an SNR which is two orders of magnitude greater than other methods (fMRI, optical imaging, etc). You can read my publication on the method [here](https://www.sciencedirect.com/science/article/pii/S105381191500628X).
 
-I'm currently translating this technique into a novel implantable medical device. Checkout my post titled "Implantable fNIRS" for more info.
+I'm currently translating this technique into a novel implantable medical device. My post titled ["Implantable fNIRS"](https://theonlyid.github.io/blog/Implantable-fNirs "go to blog post") has more info.
 
