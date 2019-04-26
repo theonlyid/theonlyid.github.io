@@ -1,11 +1,11 @@
 ---
-title: "Simultaneous fNIRS and Ephys"
+title: "Brain-state classification"
 date: 2015-01-01T15:30:30-04:00
 categories:
   - blog
 tags:
   - Neurotechnology
-  - Neuroscience
+  - Machine Learning
 ---
 
 ## Simultaneous epidural fNIRS and intracortical electrophysiology
@@ -15,7 +15,7 @@ This method enables the simultaneous acquisition of intracortical electrophysiol
 
 This method led to the discovery of novel insights into the nature of neurovascular coupling, leading to the identification of singular and unique correlates of spiking activity and low-frequency LFPs, enabling a much better interpretation of the neuroimaginng signal.
 
-This method enables the studying of neurovascular coupling at a cost that is two orders of magnitude cheaper but with an SNR which is two orders of magnitude greater than other methods (fMRI, optical imaging, etc).
+This method enables the studying of neurovascular coupling at a cost that is two orders of magnitude cheaper but with an SNR which is two orders of magnitude greater than other methods (fMRI, optical imaging, etc). You can read my publication on the method [here](https://www.sciencedirect.com/science/article/pii/S105381191500628X).
 
-I'm currently translating this technique into a novel implantable medical device.
+I'm currently translating this technique into a novel implantable medical device. Checkout my post titled "Implantable fNIRS" for more info.
 
