@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ali Zaidi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Neuroscientist / Data scientist with experience in medical technology."
+  bio    : "Neuroscientist / Data scientist with experience in the medical device industry."
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -77,6 +77,10 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/namesakeali"
+
+    - label: "Resume"
+      icon: "fas fa-file-pdf"
+      url: "{{ site.url }}{{ site.baseurl }}/assets/resume.pdf"
 
 footer:
   links:

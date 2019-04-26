@@ -17,5 +17,5 @@ This method led to the discovery of novel insights into the nature of neurovascu
 
 This method enables the studying of neurovascular coupling at a cost that is two orders of magnitude cheaper but with an SNR which is two orders of magnitude greater than other methods (fMRI, optical imaging, etc). You can read my publication on the method [here](https://www.sciencedirect.com/science/article/pii/S105381191500628X).
 
-I'm currently translating this technique into a novel implantable medical device. My post titled ["Implantable fNIRS"](https://theonlyid.github.io/blog/Implantable-fNirs "go to blog post") has more info.
+I'm currently translating this technique into a novel implantable medical device. My post titled ["Implantable fNIRS"](https://theonlyid.github.io/blog/Implantable-fNIRS/ "go to blog post") has more info.
 
