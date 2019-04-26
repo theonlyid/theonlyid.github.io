@@ -11,12 +11,6 @@ tags:
 
 ## A minimally-invasive, batteryless, implantable fNIRS system
 
-#### The What
-
- 
-
-#### The Why
 
 
-
-#### The How
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/in1.jpg">
