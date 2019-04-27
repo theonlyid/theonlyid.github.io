@@ -1,6 +1,6 @@
 ---
 title: "Data science virtual machine"
-date: 2019-01-01T15:30:30-04:00
+date: 2018-04-20T15:30:30-04:00
 categories:
   - projects
 tags:
