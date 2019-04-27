@@ -2,7 +2,7 @@
 title: "Seizure detection"
 date: 2019-01-01T15:30:30-04:00
 categories:
-  - blog
+  - project
 tags:
   - Machine Learning
   - Neuroscience

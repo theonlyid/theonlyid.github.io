@@ -10,12 +10,15 @@ tags:
 
 ## Simultaneous epidural fNIRS and intracortical electrophysiology
 
-I developed a novel method to study neuro-vascular coupling during my PhD.
-This method enables the simultaneous acquisition of intracortical electrophysiology signals and neuroimaging signals without crosstalk from one modality to another.
+Simultaneous acquisition of neuroimaging signals and intracortical electophysiology is indisposable for understanding and correctly interpreting the functional neuroimaging signal.
+However, the most commonly used techniques are incredibly expensive (in the range of hundreds to millions of dollars) and have interactions between the different modalities (for example the MR gradients causing massive artefacts in the electrophysiology signals, or the physical electrodes interfering with the field-of-view in optical imaging).
+
+To overcome these problems, I developed and investigated a novel technique for 
+This method enables the simultaneous acquisition of intracortical electrophysiology signals and neuroimaging signals using epi-dural functional near-infrared spectroscopy without crosstalk from one modality to another.
 
 This method led to the discovery of novel insights into the nature of neurovascular coupling, leading to the identification of independent correlates of spiking activity and low-frequency LFPs, enabling a much better interpretation of the neuroimaginng signal.
 
-This method enables the studying of neurovascular coupling at a cost that is two orders of magnitude cheaper but with an SNR which is two orders of magnitude greater than other methods (fMRI, optical imaging, etc). You can read my publication on the method [here](https://www.sciencedirect.com/science/article/pii/S105381191500628X).
+This method enables the studying of neurovascular coupling at a fraction of the cost (two orders of magnitude cheaper) BUT with an SNR which is two orders of magnitude greater than any other method (fMRI, optical imaging, etc). Please read my publication about the merits of the method [here](https://www.sciencedirect.com/science/article/pii/S105381191500628X).
 
-I'm currently translating this technique into a novel implantable medical device. My post titled ["Implantable fNIRS"](https://theonlyid.github.io/blog/Implantable-fNIRS/ "go to blog post") has more info.
+I'm currently translating this technique into a novel implantable medical device. Visit the ["Implantable fNIRS"](https://theonlyid.github.io/blog/Implantable-fNIRS/ "go to blog post") page for more information.
 

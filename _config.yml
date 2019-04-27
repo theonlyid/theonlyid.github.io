@@ -61,6 +61,7 @@ author:
   name   : "Ali Zaidi"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Neuroscientist / Data scientist with experience in the medical device industry."
+  location: Surrey, B.C., Canada
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
