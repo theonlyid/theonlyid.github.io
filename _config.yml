@@ -81,7 +81,7 @@ author:
 
     - label: "Resume"
       icon: "fas fa-file-pdf"
-      url: "{{ site.url }}{{ site.baseurl }}/assets/resume.pdf"
+      url: "{{ site.url }}{{ site.baseurl }}/assets/docs/resume.pdf"
 
 footer:
   links:
