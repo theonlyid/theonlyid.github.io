@@ -21,6 +21,7 @@ With that in mind, I am currently working on a peri-osteal wireless implant that
 A prototpye is currenlty under development using the Texas Instrument's MSP-430/AFE4490 Launchpad, which has been designed for use as a PPG sensor for smart-watches.
 I've written some code to configure the device parameters (such as sampling rates, LED brightness, etc) and to record the data. It resides in a repo [here](https://github.com/theonlyid/SendReceive).
 
+A few pictures of the prototype are below:
 
 <img src="{{ site.url }}{{ site.baseurl}}/assets/images/in1.jpg">
 
