@@ -6,7 +6,6 @@ categories:
 tags:
   - Neurotechnology
   - Neuroscience
-  - Ongoing
 ---
 
 ## A wireless, minimally-invasive, batteryless, completely implantable fNIRS system

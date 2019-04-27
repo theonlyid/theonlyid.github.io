@@ -6,7 +6,6 @@ categories:
 tags:
   - Machine Learning
   - Neuroscience
-  - Ongoing
 ---
 
 ## Detecting epileptic seizures from EEG recordings

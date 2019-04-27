@@ -6,7 +6,6 @@ categories:
 tags:
   - Machine Learning
   - Neuroscience
-  - Ongoing
 ---
 
 ## Forecasting epileptic seizures from ongoing EEG recordings
