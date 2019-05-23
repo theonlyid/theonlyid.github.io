@@ -18,7 +18,7 @@ Specifically, I'm interested in feature mining and feature engineering, to enabl
 I've implemented a technique that I've termed 'spectral contrasting', that signficantly reduces the feature space of the input dataset by attempting to overcome the non-stationarity in the data.
 This enables us to classify seizure events at a much better accuracy than by using the original timeseries data alone!
 
-A jupyter notebook documenting the method and the analysis is [here](https://github.com/theonlyid/seizuredetection/docs/final_notebook.ipynb "Jupyter Notebook").
+A jupyter notebook documenting the method and the analysis is [here](https://github.com/theonlyid/seizuredetection/blob/master/docs/final_notebook.ipynb "Jupyter Notebook").
 Spectral contrasting is already enabling subject-independent classification of seizures from single trials, something which is considered incredibly difficult on EEG data.
 
 I've developed a python toolkit for implementing spectral contrasting. The code can found [here](https://github.com/theonlyid/seizuredetection "Github Repo").
