@@ -75,9 +75,9 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.ca/citations?user=6kD2oIwAAAAJ"
 
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/namesakeali"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/namesakeali"
 
     - label: "Resume"
       icon: "fas fa-file-pdf"
@@ -97,9 +97,9 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.ca/citations?user=6kD2oIwAAAAJ"
 
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/namesakeali"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/namesakeali"
 
 defaults:
   # _posts
