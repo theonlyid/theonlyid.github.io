@@ -79,9 +79,9 @@ author:
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/namesakeali"
 
-    # - label: "Resume"
-    #   icon: "fas fa-file-pdf"
-    #   url: "http://theonlyid.github.io/assets/docs/resume.pdf"
+    - label: "Resume"
+      icon: "fas fa-file-pdf"
+      url: "http://theonlyid.github.io/assets/docs/resume.pdf"
 
 footer:
   links:
