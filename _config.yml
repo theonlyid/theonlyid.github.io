@@ -16,10 +16,10 @@
 title: "Ali Zaidi"
 email: "danishze@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  A porfolio of projects in neurosciene, machine learning and medical technology
+  A porfolio of projects in neuroscience, machine learning and medical technology
 baseurl: /
 url: https://theonlyid.github.io
-twitter_username: username
+twitter_username: NamesakeAli
 github_username: theonlyid
 minimal_mistakes_skin: dark
 search: true
@@ -61,7 +61,7 @@ author:
   name   : "Ali Zaidi"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Neuroscientist / Data scientist with experience in the medical device industry."
-  location: Surrey, B.C., Canada
+  location: Tuebingen, Germany
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"

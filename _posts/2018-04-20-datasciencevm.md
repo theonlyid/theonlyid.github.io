@@ -15,4 +15,4 @@ What if you could destroy you current configuration and roll it back to an earli
 
 Vagrant, combined with Ansible, is the perfect tool for developing and testing complex software with constantly evolving dependencies. With just a few commands, you can set up a virtual machine, modify it, or destroy it... without worrying about any side effects on other, unrelated projects.
 
-Checkout my repo for a [datasciencevm](https://github.com/theonlyid/datasciencevm).
+Checkout my repo that creates a [DataScienceVM](https://github.com/theonlyid/datasciencevm).

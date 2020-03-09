@@ -5,8 +5,8 @@ title: "About"
 
 ### About This Blog
 
-This blog is aimed at showcasing the work that I have done (and am currently doing) in the fields of translational neuroscience and neurotechnology.
-Each post contains some basic information regarding the motivations, methods and outcomes (if any) for the various projects, including links to publications or code repositories for further perusal.
+This website is aimed at showcasing the work that I have done (and currently doing) in the fields of translational neuroscience and neurotechnology.
+Each post contains basic information regarding the motivations, methods and outcomes (if any) for various projects, including links to publications or code repositories for further perusal.
 
 My primary interest and focus has been in real-time signal processing and forecasting of neuronal activity for neurorehabilitation and neural repair. Most of the projects outlined in this blog are connected by that common theme. I'm interested in developing novel algorithms that learn to identify neural events (such as seizures), or brain-states (such as feeling happy or sad), in real-time. I'm also interested in developing neurotechnologies that enable better signal acqusition, are progressively less invasive, and are safer.
 
