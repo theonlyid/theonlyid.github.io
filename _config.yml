@@ -16,7 +16,7 @@
 title: "Ali Zaidi"
 email: "danishze@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  A porfolio of projects in neuroscience, machine learning and medical technology
+  A portfolio of projects in neuroscience, machine learning and medical technology
 baseurl: /
 url: https://theonlyid.github.io
 twitter_username: NamesakeAli
@@ -29,7 +29,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 20 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
