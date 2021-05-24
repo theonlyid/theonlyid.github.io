@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ali Zaidi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Neuroscientist / Data scientist with experience in the medical device industry."
+  bio    : "Neuroscientist / Data scientist with a passion for healthcare analytics."
   location: Tuebingen, Germany
   links:
     - label: "LinkedIn"
