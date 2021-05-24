@@ -10,7 +10,7 @@ tags:
 
 ## Simultaneous epidural fNIRS and intracortical electrophysiology
 
-Simultaneous acquisition of neuroimaging signals and intracortical electophysiology is indispensible for understanding and correctly interpreting functional neuroimaging signals.
+Simultaneous acquisition of neuroimaging signals and intracortical electrophysiology is indispensible for understanding and correctly interpreting functional neuroimaging signals.
 However, the most commonly used techniques are incredibly expensive (in the range of hundreds to millions of dollars), and have interactions between the different recording modalities (for example the MR gradients causing massive artefacts in the electrophysiology signals, or the physical electrodes interfering with the field-of-view in optical imaging).
 
 To overcome these problems, I developed a novel technique to study localized neuro-vascular coupling.
