@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Unsupervised approaches towards identifying discrete neural events from continuous time-series data"
 date: 2019-02-02T15:30:30-04:00
 categories:

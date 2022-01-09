@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Forecasting epileptic seizures from ongoing EEG recordings"
 date: 2019-01-02T15:30:30-04:00
 categories:
