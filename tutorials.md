@@ -2,7 +2,7 @@
 layout: page
 permalink: /tutorials/
 title: Tutorials
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: Brief (or lengthy) notebooks to explain concepts and enable insight.
 ---
 
 <ul class="post-list">

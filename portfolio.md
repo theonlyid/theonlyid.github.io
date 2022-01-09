@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /portfolio/
+description: Projects related to neuroscience, medical technology and machine learning in healthcare.
 ---
 
 {% for project in site.portfolio %}
