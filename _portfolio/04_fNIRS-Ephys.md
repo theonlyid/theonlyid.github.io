@@ -3,6 +3,7 @@ layout: post
 title: "Simultaneous fNIRS and Ephys"
 description: "Combining epidural fNIRS and intracortical electrophysiology"
 date: 2016-01-05T15:30:30-04:00
+img: /img/maxresdefault.jpg
 categories:
   - projects
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: "Implantable fNIRS"
 description: "A wireless, batteryless, completely implantable fNIRS system"
-date: 2018-01-01T15:30:30-04:00
+date: 2019-01-01T15:30:30-04:00
 img: /img/in1.jpg
 ---
 

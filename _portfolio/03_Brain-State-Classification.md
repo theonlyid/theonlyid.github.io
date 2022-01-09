@@ -2,7 +2,8 @@
 layout: post
 title: "Real-time subject-independent classification of brain states"
 description: Robust and reliable classification of motor imagery 
-date: 2016-01-01T15:30:30-04:00
+date: 2017-01-01T15:30:30-04:00
+img: /img/sic.jpg
 categories:
   - projects
 tags:
