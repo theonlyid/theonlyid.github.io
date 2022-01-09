@@ -1,5 +1,5 @@
 ---
-title: "Neural event identification using manifold learning"
+title: "Unsupervised approaches towards identifying discrete neural events from continuous time-series data"
 date: 2019-02-02T15:30:30-04:00
 categories:
   - projects
@@ -7,8 +7,6 @@ tags:
   - Machine Learning
   - Neuroscience
 ---
-
-## Unsupervised approaches towards identifying discrete neural events from continuous time-series data
 
 Most neural signal analysis methods consist of identifying and evaluating changes in the power/amplitude of various frequency bands in either a block design (meaning a stimulus/task is repeated several times, and signal averages are compared across various conditions). However, such methods do not factor in the complex dynamics of neural activity, which consists of overlapping patterns spread across, and interacting over, mulitple temporal and spatial scales. Furthermore, the dominant frequencies of spectral bands identified in traditional analysis methods (such as gamma, alpha, theta, etc) are highly subject-dependent and can vary considerably depending on the health of the brain.
 

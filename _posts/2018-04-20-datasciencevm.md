@@ -7,7 +7,7 @@ tags:
   - DevOps
 ---
 
-## A self-configuring virtual machine for data-science projects
+**A self-configuring virtual machine for data-science projects**
 
 For many development projects, a lot of dependencies need to be installed on the machine, often requiring root privilidges, or editing a long list of config files. As the project evolves, those dependencies change, and with constant re- and re-re-installations, conficts arise, and the system (or some of it's components) breaks down.
 

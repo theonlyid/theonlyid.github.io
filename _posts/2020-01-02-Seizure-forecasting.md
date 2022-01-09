@@ -1,5 +1,5 @@
 ---
-title: "Seizure forecasting"
+title: "Forecasting epileptic seizures from ongoing EEG recordings"
 date: 2019-01-02T15:30:30-04:00
 categories:
   - projects
@@ -7,8 +7,6 @@ tags:
   - Machine Learning
   - Neuroscience
 ---
-
-## Forecasting epileptic seizures from ongoing EEG recordings
 
 Imagine a patient suffering from epilepsy, who has a seizure interval ranging from days to months. Imagine being them. Imagine having an otherwise normal life, yet constantly fearing that the next minute could have you suddenly on ground succumbing to a tonic-clonic seizure. An incredibly stress-filled life, isn't it?
 

@@ -1,5 +1,6 @@
 ---
-title: "Unbiasing predictors"
+title: "Unbiasing predictors - a primer"
+layout: post
 date: 2021-05-21T15:30:30-04:00
 categories:
   - projects
@@ -8,8 +9,6 @@ tags:
   - Healthcare
   - Analytics
 ---
-
-## Removing biased predictors from datasets - a tutorial
 
 When working with datasets, we are often interested in learning the relationship of a quantity of interest, given some known variables (the predictors). The unknown value could either be the estimated value of a continuous variable, where the process is called regression, or an unknown class to which our sample belong to, which is called classification. Many tutorials on the internet provide wonderful insights into the many ways of performing regression and classification. The objective of these methods is, in one way or another, to minimize the error in our predictions, with the most commonly used metric being accuracy (of predictions). The game is to push that accuracy score as high as possible. 
 
