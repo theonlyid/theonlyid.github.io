@@ -10,7 +10,7 @@ tags:
 
 **A self-configuring virtual machine for data-science projects**
 
-For many development projects, a lot of dependencies need to be installed on the machine, often requiring root privilidges, or editing a long list of config files. As the project evolves, those dependencies change, and with constant re- and re-re-installations, conficts arise, and the system (or some of it's components) breaks down.
+For many development projects, a lot of dependencies need to be installed on the dev machine, often requiring root privileges, or editing a long list of config files. As the project evolves, those dependencies change, and with constant re- and re-re-installations, conflicts arise, and the dependencies (or some of it's components) break down.
 
 What if you could destroy you current configuration and roll it back to an earlier date, or start over from scratch, without suffering from making constant backups of data unrelated to the project. What if you could automate tests before deployment?
 
