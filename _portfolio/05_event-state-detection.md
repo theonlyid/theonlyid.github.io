@@ -29,7 +29,7 @@ I've used a segment of iEEG signals from a patient suffering from epilepsy, wher
 **By cleaning lables using this algorithm we reduced the seizure classification error by ~93%**
 
 
-**Results at a gimpse**
+**Results at a glimpse**
 
 | Labels | bal Acc | F1 |
 | :----- | :-------: |  -: |
