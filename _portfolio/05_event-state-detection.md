@@ -16,7 +16,7 @@ There's need to relax these strict analytical parameters and learn them from the
 
 I have recenlty demonstrated a method that enables discretization of complex signals across multiple scales. I've demonstrated how it works on open data in a jupyter notebook [tutorial](/tutorials/event-detection/).
 
-The defines an event as a specific distribution over the power spectrum. It identifies various events from the data, based on the parameters of the STFT. From there it identifies states by defining a state to be a distribution over the events.
+The algorithm defines an event as a specific distribution over the power spectrum. It identifies various events from the data, based on the parameters of the STFT. From there it identifies states by defining a state to be a distribution over the events.
 
 I've used a segment of iEEG signals from a patient suffering from epilepsy, where the first and last 180s of the recording represent background activity, and the rest represent a seizure.
 

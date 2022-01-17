@@ -25,6 +25,6 @@ This is how it has traditionally been used in hospitals. However, it can provide
 Discretizing complex dynamics
 </b>
 
-The dynamics of the two signals can be fed into an event-state detection algorithm (such as the described in [Project 1](/portfolio/05_event-state-detection)) that can divide the timeseries into different events and states, which can be tracked over time, and used as variables to predict the outcome of different treatments or interventions.
+The dynamics of the two signals can be fed into an event-state detection algorithm (such as the one described in [Project 1](/portfolio/05_event-state-detection)) that can divide the timeseries into different events and states, which can be tracked over time, and used as variables to predict the outcome of different treatments or interventions.
 
 This is a project that is very close to my heart, and I am eagery waiting for an opportunity to validate and implement a working system in the ICU.
