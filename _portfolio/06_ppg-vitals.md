@@ -8,8 +8,10 @@ img: /img/in3.png
 
 **Using PPGs for patient health monintoring**
 
-The PPG signal is signal rich in information that can be used to infer many physiological parameters such as pulse-rate and blood-oxygenation.
-This is how it has traditionally been used in hospitals. However, it can provide to more interesting physiological parameters, specially in the ICU, and more so durin brain trauma:
+The PPG signal is rich in information that can be used to infer many physiological parameters such as pulse-rate and blood-oxygenation.
+This is how it has traditionally been used in hospitals and healthcare settings. However, it can also provide more interesting physiological parameters, specially in the ICU, enabling a long-term assessment and tracking of patient health, arousal and discomfort.
+
+Two simple applications are:
 
 1. It can be used to infer blood pressure (wiith a little bit of signal processing)
 
@@ -17,7 +19,7 @@ This is how it has traditionally been used in hospitals. However, it can provide
 
 **How is that relevant?**
 
-1. Changes in blood pressure can be used to infer the depth of anesthesia without the need for an extra device that is attached to arm. The BP measurements are returned at the same rate as pulse, so keeping track of faster changes is made way easier.
+1. Changes in blood pressure can be used to infer the depth of anesthesia without the need for an extra device that is attached to the patient's arm. The BP measurements are returned at the same rate as pulse, enabling a much higher sampling rate of blood pressure, and thus denser data to estimate trends.
 
 2. The arousal state of a patient can be determined by the burst-suppression patterns in the EEG. Since fNIRS is a great proxy for brain activity, and is much more robust to movements and purutrbations, it makes a great canditate for monitoring patient brain function in the ICU.
 

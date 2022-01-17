@@ -8,7 +8,7 @@ img: /img/sz.png
 
 **Detecting epileptic seizures from EEG recordings**
 
-Neurologists and epileptologists spend a significant amount of their time sifting through EEG recordings that span anywhere between 1 to 9 hours of recoridings, by manually inspecting the data in 10 second increments, looking for markers of a malfunctioning brain. These markers, however, are often small, transient changes in a highly complex and chaotic signal.
+Neurologists and epileptologists spend a significant amount of their time sifting through EEG recordings that span anywhere between 1 to 9 hours of raw data, by manually inspecting the data in 10 second increments, looking for markers of a malfunctioning brain. These markers, however, are often small, transient changes in a complex and chaotic signal.
 
 I'm interested in developing a method to automatically flag neural events (such as seizures, eye-blinks or sleep) from EEG data. My approach is focussed on overcoming the complex, non-stationary nature of the EEG signal, which poses a difficult challenge for everything from LDA to deep learning.
 

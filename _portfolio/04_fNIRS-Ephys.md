@@ -13,10 +13,10 @@ usemathjax: true
 ---
 
 Simultaneous acquisition of neuroimaging signals and intracortical electrophysiology is indispensible for understanding and correctly interpreting functional neuroimaging signals.
-However, the most commonly used techniques are incredibly expensive (in the range of hundreds to millions of dollars), and have interactions between the different recording modalities (for example the MR gradients causing massive artefacts in the electrophysiology signals, or the physical electrodes interfering with the field-of-view in optical imaging).
+However, the most commonly used techniques are incredibly expensive (from tens of thousands to millions of dollars), and have interactions between the different recording modalities (for example the MR gradients causing massive artefacts in the electrophysiology signals, or the physical electrodes interfering with the field-of-view in optical imaging).
 
 To overcome these problems, I developed a novel technique to study localized neuro-vascular coupling.
-This method enables the simultaneous acquisition of intracortical electrophysiology and neuroimaging signals using epi-dural functional near-infrared spectroscopy, without any crosstalk from one modality to another.
+This method enables the simultaneous acquisition of intracortical electrophysiology and neuroimaging signals using epidural functional near-infrared spectroscopy, without any crosstalk from one modality to another.
 
 This method led to the discovery of novel insights into the nature of neurovascular coupling, leading to the identification of independent correlates of spiking activity and low-frequency LFPs, enabling a much better interpretation of the neuroimaging signal.
 

@@ -37,6 +37,18 @@ Not having a bulky battery allows us to use flexible materials as PCB and scaffo
 
 The modularity 
 
+
+**Wireless and battery-less**
+
+
+
+**Fully encapsulated**
+
+
+
+**Easily implantable**
+
+
 A prototpye is currenlty under development using the Texas Instrument's MSP-430/AFE4490 Launchpad, which has been designed for use as a PPG sensor for smart-watches.
 I've written some code to configure the device parameters (such as sampling rates, LED brightness, etc) and to record the data. It resides in a repo [here](https://github.com/theonlyid/SendReceive).
 

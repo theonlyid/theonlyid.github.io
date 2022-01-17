@@ -2,7 +2,7 @@
 layout: page
 permalink: /tutorials/
 title: Tutorials
-description: Brief (or lengthy) notebooks to explain concepts and enable insight.
+description: Brief (or lengthy) jupyter notebooks to explain concepts and enable insight.
 ---
 
 <ul class="post-list">
