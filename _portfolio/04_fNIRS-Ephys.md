@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Simultaneous fNIRS and Ephys"
+title: "Project 4"
 description: "Combining epidural fNIRS and intracortical electrophysiology"
-date: 2016-01-05T15:30:30-04:00
+date: 2021-01-01T15:30:30-04:00
 img: /img/maxresdefault.jpg
 categories:
   - projects
@@ -22,4 +22,4 @@ This method led to the discovery of novel insights into the nature of neurovascu
 
 This method enables the study of neurovascular coupling at a fraction of the cost (two orders of magnitude cheaper) BUT with an SNR which is two orders of magnitude greater than any other method (fMRI, optical imaging, etc). Please read my publication about the merits of the method [here](https://www.sciencedirect.com/science/article/pii/S105381191500628X).
 
-I'm currently translating this technique into a novel implantable medical device. Visit the ["Implantable fNIRS"](https://theonlyid.github.io/blog/Implantable-fNIRS/ "go to blog post") page for more information.
+I'm currently translating this technique into a novel implantable medical device. Visit the ["Implantable fNIRS"](/portfolio/01_Implantable-fNIRS) page for more information.

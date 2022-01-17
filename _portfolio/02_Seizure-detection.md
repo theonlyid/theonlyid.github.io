@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seizure detection using spectral contrasting"
+title: "Project 3"
 date: 2018-01-01T15:30:30-04:00
 description: "Spectral contrasting for seizure detection and classification"
 img: /img/sz.png

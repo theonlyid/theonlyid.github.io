@@ -17,4 +17,4 @@ I am currently developing and testing unsupervised approaches that identify disc
 
 Such tools are critical for enabling deeper insights into the changes that occur during neurological diseases, for tracking progress during recovery and rehabilitation, and finally for identifying predictors for specific outcomes.
 
-You can see a glimpse of ongoing work [here](https://github.com/theonlyid/event_detection/blob/master/Event%20detection.ipynb "Jupyter notebook").
+You can see a glimpse of ongoing work [here](/tutorials/event-detection/ "Jupyter notebook").
