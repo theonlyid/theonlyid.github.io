@@ -8,7 +8,7 @@ permalink: /about/
 <h3> <b>Ali Danish Zaidi</b> </h3>
 <p></p>
 
-**PhD in Cogntive Science, Department of Computer Science, University of Tuebingen (*magna cum laude*)**
+**PhD in Cognitive Science, Department of Computer Science, University of Tuebingen (*magna cum laude*)**
 
 I am a systems neuroscientist / data scientist with over 10 years of experience in both generating and analyzing complex, multi-modal datasets (fMRI, EEG, intracortical-electrophysiology), and drawing insights from them.
 I have a deep interest in healthcare and medical technology, and I bring domain knowledge from diverse fields such as genetics, molecular biology, systems neuroscience, and computer science. I have a passion for attacking complex problems and discovering deep insights in the fields of healthcare and medical technology.
@@ -28,7 +28,7 @@ For my PhD I decided to pursue my fascination for neuroscience, and joined the p
 
 In 2017 and 2018 I was at the Wyss Center for Neurotechnology in Geneva where I was working on a number of projects ranging from novel medical devices for epilepsy or stroke monitoring to a brain-computer interface for completely locked-in patients using signals from an implanted multi-electrode array. The projects that I did there cannot be shared openly, but I would be happy to discuss non-critical aspects about them in case you'd like to know more about them. 
 
-My primary interest and focus has been in real-time signal processing and anlaysis of neuronal activity for neuro-rehabilitation and neural repair. This includes clustering, classification and decoding of real-time multi-modal signals. Most of the projects outlined in this blog are connected by that common theme. I'm interested in developing novel algorithms that learn to identify neural events (such as seizures), or brain-states (such as feeling happy or sad), in real-time. I'm also interested in developing neurotechnologies that enable better signal acquisition, are progressively less invasive, and safer.
+My primary interest and focus has been in real-time signal processing and analysis of neuronal activity for neuro-rehabilitation and neural repair. This includes clustering, classification and decoding of real-time multi-modal signals. Most of the projects outlined in this blog are connected by that common theme. I'm interested in developing novel algorithms that learn to identify neural events (such as seizures), or brain-states (such as feeling happy or sad), in real-time. I'm also interested in developing neurotechnologies that enable better signal acquisition, are progressively less invasive, and safer.
 
 An overview of these projects are in my [resume](/assets/docs/resume.pdf).
 
