@@ -87,8 +87,8 @@ I've written some code to configure the device parameters (such as sampling rate
 
 A few pictures of the prototype are below:
 
-<img class="col three" src="{{ site.url }}{{ site.baseurl}}/img/in1.jpg">
+<img class="col three" src="/img/in1.jpg">
 
-<img class="col one" src="{{ site.url }}{{ site.baseurl}}/img/in2.jpg">
+<img class="col one" src="/img/in2.jpg">
 <p>
-<img class="col two" src="{{ site.url }}{{ site.baseurl}}/img/in3.png">
+<img class="col two" src="/img/in3.png">
